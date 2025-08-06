@@ -1,4 +1,4 @@
-## Welcome to Motorola-SM6375-Devs organization 
+## Welcome to Moto G82 5G (Rhodep) Sources organization 
 
 This organization contains device specific sources for **rhodep** and common sources for various SM6375 based Motorola devices.
 
