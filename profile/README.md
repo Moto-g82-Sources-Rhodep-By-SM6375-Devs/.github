@@ -2,7 +2,7 @@
 
 This organization contains device specific sources for **rhodep** and common sources for various SM6375 based Motorola devices.
 
-Founded by [@AnandSuresh02](https://github.com/AnandSuresh02), feel free to contribute.
+Forked from [Motorola-SM6375-Devs](https://github.com/Motorola-SM6375-Devs), [@AnandSuresh02](https://github.com/AnandSuresh02), feel free to contribute.
 
 If you like @AnandSuresh02 work, feel free to donate:
 
