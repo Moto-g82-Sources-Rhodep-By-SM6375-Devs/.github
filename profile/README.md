@@ -2,13 +2,17 @@
 
 This organization contains device specific sources for **rhodep** and common sources for various SM6375 based Motorola devices.
 
-Forked from [Motorola-SM6375-Devs](https://github.com/Motorola-SM6375-Devs), [@AnandSuresh02](https://github.com/AnandSuresh02), and [@JNW_SG](https://github.com/JNWSG), [@AnandSuresh02](https://github.com/AnandSuresh02), feel free to contribute.
+Forked from [Motorola-SM6375-Devs](https://github.com/Motorola-SM6375-Devs), [@AnandSuresh02](https://github.com/AnandSuresh02), and [JNWSG](https://github.com/JNWSG), feel free to contribute.
 
 If you like @AnandSuresh02 work, feel free to donate:
 
+- AnandSuresh02 : [@AnandSuresh02](https://github.com/AnandSuresh02),
 * UPI - anandzzz360@oksbi
 * Buy me a Coffee - https://buymeacoffee.com/anandzzz36g
 * PayPal - https://www.paypal.com/paypalme/anandsuresh02
+
+- JNWSG : [JNWSG](https://github.com/JNWSG),
+* Buy me a Coffee: UPI - s.kumar.641@superyes
 
 ## Devices supported
 
