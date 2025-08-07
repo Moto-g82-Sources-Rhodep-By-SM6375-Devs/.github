@@ -6,12 +6,12 @@ Forked from [Motorola-SM6375-Devs](https://github.com/Motorola-SM6375-Devs), [@A
 
 If you like @AnandSuresh02 work, feel free to donate:
 
-- AnandSuresh02 : [@AnandSuresh02](https://github.com/AnandSuresh02),
+**AnandSuresh02** : [@AnandSuresh02](https://github.com/AnandSuresh02),
 * UPI - anandzzz360@oksbi
 * Buy me a Coffee - https://buymeacoffee.com/anandzzz36g
 * PayPal - https://www.paypal.com/paypalme/anandsuresh02
 
-- JNWSG : [JNWSG](https://github.com/JNWSG),
+**JNWSG** : [JNWSG](https://github.com/JNWSG),
 * Buy me a Coffee: UPI - s.kumar.641@superyes
 
 ## Devices supported
