@@ -4,7 +4,7 @@ This organization contains device specific sources for **rhodep** and common sou
 
 Forked from [Motorola-SM6375-Devs](https://github.com/Motorola-SM6375-Devs), [@AnandSuresh02](https://github.com/AnandSuresh02), and [JNWSG](https://github.com/JNWSG), feel free to contribute.
 
-If you like @AnandSuresh02 work, feel free to donate:
+If you like @AnandSuresh02, @JNWSG, and @victorlima-legendary work, feel free to donate:
 
 **AnandSuresh02** : [@AnandSuresh02](https://github.com/AnandSuresh02),
 * UPI - anandzzz360@oksbi
